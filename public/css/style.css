@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Inter:wght@500;700&family=Sigmar+One&display=swap');
+
+
+html {
+  background-image: url("./photos/Turquoise\ Dogs\ and\ Paw\ Print\ Cute\ Virtual\ Background.png");
+}
+
+nav {
+  background-color: #85cad0;
+}
+
+main {
+  background-color: #85cad0d6;
+  padding: 3%;
+}
+
+#navbar-default.navBKG {
+  background-color: #A084E8;
+}
+
+form .form-input {
+  color: #3d4547;
+}
+
+#logotext {
+  font-size: 3em;
+  font-family: 'Sigmar One', cursive;
+  color: #783f1a;
+}
+
+a {
+  background-color: #FFF3DA(255, 148, 85);
+}
+
+button {
+  background-color: #FF577F;
+}
+
+li.mr-2>p#about-tab {
+  background-color: transparent;
+}
+
+#corgiLogo {
+  width: 7em;
+  height: 7em;
+  border-radius: 50%;
+}
+
+body>main>div>div.col-md-7>h1>a {
+  font-family: inter;
+  font-size: 2rem;
+  color: #6F61C0;
+  font-weight: 700;
+}
+
+
+
+#petcard {
+  padding: 8% 0;
+  border-radius: 2rem;
+  border: 5px dotted mediumpurple;
+  background: linear-gradient(90deg, hsla(233, 100%, 90%, 1) 0%, hsla(0, 0%, 89%, 1) 100%);
+  filter: drop-shadow(2px 4px 6px #97d1d7);
+}
+
+
+section.card>h3 {
+  font-family: inter;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+h2.petnametitle {
+  font-family: inter;
+  font-size: 2.3rem;
+  margin-bottom: 4%;
+  font-weight: 900;
+  color: brown;
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "pet_name": "Bubba",
+    "animal": "Cat",
+    "age": 3,
+    "breed": "Tabby",
+    "personality": "lazy",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 3
+  },
+  {
+    "pet_name": "Max",
+    "animal": "Dog",
+    "age": 5,
+    "breed": "Labrador",
+    "personality": "energetic",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 1
+  },
+  {
+    "pet_name": "Whiskers",
+    "animal": "Cat",
+    "age": 2,
+    "breed": "Persian",
+    "personality": "playful",
+    "vaccinated": false,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 3
+  },
+  {
+    "pet_name": "Buddy",
+    "animal": "Dog",
+    "age": 7,
+    "breed": "Golden Retriever",
+    "personality": "friendly",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 4
+  },
+  {
+    "pet_name": "Luna",
+    "animal": "Cat",
+    "age": 1,
+    "breed": "Siamese",
+    "personality": "independent",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 5
+  },
+  {
+    "pet_name": "Rocky",
+    "animal": "Dog",
+    "age": 4,
+    "breed": "German Shepherd",
+    "personality": "protective",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 6
+  },
+  {
+    "pet_name": "Oliver",
+    "animal": "Cat",
+    "age": 6,
+    "breed": "Maine Coon",
+    "personality": "affectionate",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 7
+  },
+  {
+    "pet_name": "Bailey",
+    "animal": "Dog",
+    "age": 3,
+    "breed": "Beagle",
+    "personality": "curious",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 8
+  },
+  {
+    "pet_name": "Milo",
+    "animal": "Cat",
+    "age": 4,
+    "breed": "Ragdoll",
+    "personality": "gentle",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 9
+  },
+  {
+    "pet_name": "Daisy",
+    "animal": "Dog",
+    "age": 2,
+    "breed": "Poodle",
+    "personality": "playful",
+    "vaccinated": false,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 10
+  },
+  {
+    "pet_name": "Simba",
+    "animal": "Cat",
+    "age": 1,
+    "breed": "Bengal",
+    "personality": "adventurous",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 11
+  },
+  {
+    "pet_name": "Charlie",
+    "animal": "Dog",
+    "age": 8,
+    "breed": "Dachshund",
+    "personality": "cuddly",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 12
+  },
+  {
+    "pet_name": "Cleo",
+    "animal": "Cat",
+    "age": 5,
+    "breed": "Sphynx",
+    "personality": "quirky",
+    "vaccinated": true,
+    "photo": null,
+    "location": "Austin",
+    "user_id": 13
+  }
+]

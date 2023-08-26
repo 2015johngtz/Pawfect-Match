@@ -1,0 +1,80 @@
+body {
+  background-color: #85cad0cf;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+#messages {
+  padding-bottom: 30%;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 10px;
+  background-color: #1B6B93;
+  padding: 5px;
+  border-radius: 10px;
+  color: white;
+  width: 50%;
+}
+
+li span {
+  font-style: italic;
+  font-weight: bolder;
+  color: #f08100;
+}
+
+#chat {
+  width: 80%;
+  margin: auto;
+}
+
+#message-form {
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6F61C0;
+}
+
+input {
+  width: 70%;
+  height: 30px;
+}
+
+button {
+  width: 25%;
+  height: 38px;
+}
+
+.sent {
+  text-align: right;
+  background-color: #AA77FF;
+  margin-left: 50%;
+}
+
+.sent span {
+  margin-left: 5px;
+  color: #070707;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+}
+
+#navbar-default.navBKG {
+  background-color: #A084E8;
+  text-align: center;
+  margin: 8%;
+  font-family: inter;
+  font-weight: 700;
+}
